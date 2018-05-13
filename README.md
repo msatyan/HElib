@@ -47,3 +47,9 @@ For more information see the [GitHub Pages][9].
   [7]: http://eprint.iacr.org/2014/106       "algorithms"
   [8]: http://eprint.iacr.org/2014/873       "bootstrapping"
   [9]: http://shaih.github.io/HElib          "GitHubPages"
+
+
+### Pull changes
+```bash
+git pull https://github.com/shaih/HElib.git master
+```
